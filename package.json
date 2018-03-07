@@ -1,0 +1,22 @@
+{
+  "name": "goku-animated",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "callbag-basics": "^2.0.1",
+    "flubber": "^0.4.2",
+    "raw-loader": "^0.5.1"
+  },
+  "devDependencies": {
+    "webpack": "^4.1.1",
+    "webpack-cli": "^2.0.10"
+  }
+}
