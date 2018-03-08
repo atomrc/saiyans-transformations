@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "callbag-animation-frames": "^1.0.4",
     "callbag-basics": "^2.0.1",
     "flubber": "^0.4.2",
     "raw-loader": "^0.5.1"
