@@ -12,6 +12,7 @@ const saiyanIds = [
   { name: "Saiyan", id: "saiyan", color: "000000" },
   { name: "Super Saiyan 1", id: "super-saiyan-1", color: "ffbd31" },
   { name: "Super Saiyan 2", id: "super-saiyan-2", color: "d5cf2b" },
+  { name: "Super Saiyan 3", id: "super-saiyan-3", color: "ebb700" },
   { name: "Super Saiyan God", id: "super-saiyan-god", color: "d70564" },
   { name: "Super Saiyan Blue", id: "super-saiyan-blue", color: "05bbcb" },
   { name: "Ultra Instinct", id: "ultra-instinct", color: "56656c" }
