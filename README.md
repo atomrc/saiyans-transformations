@@ -5,6 +5,7 @@
 Watch Goku's hair while he is tranforming into:
 - Super Saiyan
 - Super Saiyan 2
+- Super Saiyan 3
 - Super Saiyan God
 - Super Saiyan Blue
 - Ultra Instinct
